@@ -4,6 +4,10 @@
 |-------|---------|
 | [![CI](https://github.com/keiyoushi/extensions-source/actions/workflows/build_push.yml/badge.svg)](https://github.com/keiyoushi/extensions-source/actions/workflows/build_push.yml) | [![Discord](https://img.shields.io/discord/1193460528052453448.svg?label=discord&labelColor=7289da&color=2c2f33&style=flat)](https://discord.gg/3FbCpdKbdY) |
 
+## 订阅链接
+
+https://fastly.jsdelivr.net/gh/noir1216/Tachiyomi-extensions/blob/repo/index.min.json
+
 ## Source Code
 
 https://github.com/keiyoushi/extensions-source
